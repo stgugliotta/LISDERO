@@ -1,0 +1,16 @@
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\FrameWork\Services\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\FrameWork\Services\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\FrameWork\Services\obj\Release\Services.dll
+C:\Tools\Netares\Proyecto\FrameWork\Services\obj\Release\Services.pdb
+C:\Tools\Streambe\Lisdero\FrameWork\Services\bin\Release\Services.xml
+C:\Tools\Streambe\Lisdero\FrameWork\Services\bin\Release\Services.dll
+C:\Tools\Streambe\Lisdero\FrameWork\Services\bin\Release\Services.pdb
+C:\Tools\Streambe\Lisdero\FrameWork\Services\bin\Release\CoreServices.dll
+C:\Tools\Streambe\Lisdero\FrameWork\Services\bin\Release\CoreServices.pdb
+C:\Tools\Streambe\Lisdero\FrameWork\Services\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Streambe\Lisdero\FrameWork\Services\obj\Release\Services.dll
+C:\Tools\Streambe\Lisdero\FrameWork\Services\obj\Release\Services.pdb

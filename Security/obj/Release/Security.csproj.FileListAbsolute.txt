@@ -1,0 +1,35 @@
+C:\Tools\Netares\Proyecto\Para Javi2\Security\bin\Release\Security.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Security\bin\Release\Security.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Release\Security.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Security\obj\Release\Security.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\bin\Release\Security.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\bin\Release\Security.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\obj\Release\Security.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Security\obj\Release\Security.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Security\bin\Release\Security.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Security\bin\Release\Security.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Streambe\Lisdero\Lisdero\Security\obj\Release\Security.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Security\obj\Release\Security.pdb
+C:\Desa\Lisdero\Security\bin\Release\Security.dll
+C:\Desa\Lisdero\Security\bin\Release\Security.pdb
+C:\Desa\Lisdero\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Desa\Lisdero\Security\obj\Release\Security.dll
+C:\Desa\Lisdero\Security\obj\Release\Security.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Security\bin\Release\Security.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Security\bin\Release\Security.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Security\obj\Release\Security.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Security\obj\Release\Security.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Security\bin\Release\Security.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Security\bin\Release\Security.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Security\obj\Release\Security.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Security\obj\Release\Security.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Security\bin\Release\Security.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Security\bin\Release\Security.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Security\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Security\obj\Release\Security.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Security\obj\Release\Security.pdb

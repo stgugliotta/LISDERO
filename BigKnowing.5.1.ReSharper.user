@@ -1,0 +1,194 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="else" priority="3" />
+      <Item value="int" priority="0" />
+      <Item value="cant" priority="3" />
+      <Item value="len" priority="1" />
+      <Item value="gvResultadosBusqueda" priority="1" />
+      <Item value="private" priority="1" />
+      <Item value="string" priority="6" />
+      <Item value="TextBox1" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="this" priority="7" />
+      <Item value="new" priority="3" />
+      <Item value="List&lt;EmpresaPersonaDataContracts&gt;" priority="1" />
+      <Item value="personas" priority="1" />
+      <Item value="empresaPersonaDataContract" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="gvResultadoEmpresa" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="DataTable" priority="1" />
+      <Item value="codigo" priority="0" />
+      <Item value="empresasPersonasService" priority="0" />
+      <Item value="empresas" priority="0" />
+      <Item value="using" priority="2" />
+      <Item value="myPopup" priority="4" />
+      <Item value="Vistas_UCPopupDatos`0" priority="0" />
+      <Item value="userControl" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="catch" priority="0" />
+      <Item value="AjaxControlToolkit" priority="0" />
+      <Item value="ModalPopupExtender`0" priority="0" />
+      <Item value="ModalPopupExtender" priority="0" />
+      <Item value="Common" priority="0" />
+      <Item value="DataContracts" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="PersonaDataContracts`0" priority="0" />
+      <Item value="personaDataContracts" priority="1" />
+      <Item value="LinkButton`0" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="1" />
+      <Item value="Equals`0" priority="1" />
+      <Item value="ToUpper`0" priority="0" />
+      <Item value="Replace`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidades.EmpresaPersona">
+      <Item value="Tipo" priority="0" />
+      <Item value="Codigo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.DataContracts.EmpresaPersonaDataContracts">
+      <Item value="Tipo" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_ViewRelaciones">
+      <Item value="gvResultadoPersona" priority="0" />
+      <Item value="TextBox1" priority="0" />
+      <Item value="panelGeneral" priority="1" />
+      <Item value="ModalProgress" priority="0" />
+      <Item value="updatePanelGeneral" priority="1" />
+      <Item value="ModalPopupResultados" priority="0" />
+      <Item value="myPopup" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="Clear`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EvaWebControls.XGridView">
+      <Item value="Rows" priority="0" />
+      <Item value="SelectedIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.IDataReader">
+      <Item value="GetInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.DbType">
+      <Item value="Int32" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vistas_UCPopupDatos">
+      <Item value="ModalPopupDatosItem" priority="0" />
+      <Item value="personaDetalle" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ASP.vistas_ucpopupdatos_ascx">
+      <Item value="ModalPopupExtenderDatos" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AjaxControlToolkit.ModalPopupExtender">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DetailsView">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C7CEF75C-B92F-4851-AFED-56D6B12517B9/f:PersonaLiviano.cs" caret="0" fromTop="0" />
+      <File id="C7CEF75C-B92F-4851-AFED-56D6B12517B9/f:EmpresaLiviano.cs" caret="0" fromTop="0" />
+      <File id="FBE98852-409A-4AAC-A586-20132DAE2DC6/f:AbstractMapper.cs" caret="4452" fromTop="24" />
+      <File id="FBE98852-409A-4AAC-A586-20132DAE2DC6/f:DALEmpresaPersona.cs" caret="12764" fromTop="24" />
+      <File id="B1B4FE54-0AF5-4E46-B1A2-23EE0C157D90/f:EmpresaPersonaService.cs" caret="11339" fromTop="26" />
+      <File id="B533F00C-76E8-4DFA-91D0-07ABFB0F8BBA/f:TransparentProxy.cs" caret="2823" fromTop="3" />
+      <File id="C7CEF75C-B92F-4851-AFED-56D6B12517B9/f:Persona.cs" caret="0" fromTop="0" />
+      <File id="C7CEF75C-B92F-4851-AFED-56D6B12517B9/f:Empresa.cs" caret="0" fromTop="0" />
+      <File id="C7CEF75C-B92F-4851-AFED-56D6B12517B9/f:EmpresaPersona.cs" caret="996" fromTop="39" />
+      <File id="5990650C-DC53-4405-85E3-A33BEA28E4EC/f:EmpresaPersonaAdmin.cs" caret="6238" fromTop="16" />
+      <File id="5FCAAD62-F987-4B50-BCE3-1F1916C4FD99/d:DataContracts/f:EmpresaPersonaDataContracts.cs" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/f:GoogleMapForASPNet.ascx.cs" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/f:GoogleMapForASPNet.ascx" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewAltaPersona.aspx" caret="1232" fromTop="14" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewAsignacionDeAnalista.aspx.cs" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx" caret="7887" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRemisionDeValores.aspx" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewLocalizarFactura.aspx" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewHojaDeRutaAlta.aspx" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewExportToExcelHDR.aspx" caret="0" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewEdicionRecibo.aspx" caret="26302" fromTop="5" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewGestionDeDeudores.aspx" caret="44821" fromTop="11" />
+      <File id="5FCAAD62-F987-4B50-BCE3-1F1916C4FD99/d:DataContracts/f:PersonaDataContracts.cs" caret="4375" fromTop="20" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="4558" fromTop="13" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:App_Code/f:GobbiPage.cs" caret="2518" fromTop="24" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/f:MasterPage.master.cs" caret="1405" fromTop="20" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx.cs" caret="654" fromTop="17" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewAltaEmpresa.aspx.cs" caret="37057" fromTop="10" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewAltaPersona.aspx.cs" caret="42517" fromTop="12" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx.cs" caret="17567" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx.cs" caret="574" fromTop="15" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx.cs" caret="570" fromTop="16" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="6967" fromTop="69" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx" caret="7892" fromTop="2" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx" caret="7892" fromTop="9" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx" caret="7892" fromTop="6" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="712" fromTop="10" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="1343" fromTop="11" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="1759" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="3363" fromTop="6" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="6456" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx" caret="841" fromTop="10" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx.cs" caret="11176" fromTop="5" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx.cs" caret="224" fromTop="9" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx" caret="7838" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="377" fromTop="4" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="57" fromTop="0" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx.cs" caret="457" fromTop="9" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx.cs" caret="571" fromTop="6" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="3008" fromTop="5" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="2225" fromTop="8" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="4046" fromTop="11" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="5929" fromTop="25" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="5164" fromTop="13" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="3903" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="4887" fromTop="17" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx" caret="4558" fromTop="13" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:ViewRelaciones.aspx.cs" caret="18352" fromTop="19" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx.cs" caret="378" fromTop="7" />
+      <File id="600F1512-F474-4177-9386-7A8D0C55A7E8/d:Vistas/f:UCPopupDatos.ascx.cs" caret="861" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6.2\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

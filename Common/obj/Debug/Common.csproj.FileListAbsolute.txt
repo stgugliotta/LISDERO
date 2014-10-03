@@ -1,0 +1,97 @@
+D:\Netares\EmacsaSVN\Gobbi\Common\bin\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Common\bin\Debug\Common.pdb
+D:\Netares\EmacsaSVN\Gobbi\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Common\obj\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Common\obj\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\obj\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi\Common\obj\Debug\Common.pdb
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\bin\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\bin\Debug\Common.pdb
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\obj\Debug\Common.dll
+D:\Netares\EmacsaSVN\Gobbi\Gobbi 02022010\Common\obj\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\bin\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\bin\Debug\Common.pdb
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\obj\Debug\Common.dll
+C:\Tools\Sources\Netares\Netares\EmacsaSVN\EmacsaSVN\Gobbi_prod\Common\obj\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Gobbi\Common\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Gobbi\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Gobbi\Common\obj\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Gobbi\Common\obj\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Common\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Debug\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Common\obj\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\bin\Debug\CoreServices.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Debug\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Common\obj\Debug\Common.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Common\bin\Debug\Services.xml
+C:\Tools\Streambe\Lisdero\Lisdero\Common\bin\Debug\Common.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Common\bin\Debug\Common.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Common\bin\Debug\Services.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Common\bin\Debug\CoreServices.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Common\bin\Debug\Services.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Common\bin\Debug\CoreServices.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Common\bin\Debug\CoreServices.xml
+C:\Tools\Streambe\Lisdero\Lisdero\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Tools\Streambe\Lisdero\Lisdero\Common\obj\Debug\Common.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Common\obj\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\bin\Debug\Services.xml
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\bin\Debug\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\bin\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\bin\Debug\Services.dll
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\bin\Debug\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\bin\Debug\Services.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\bin\Debug\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\bin\Debug\CoreServices.xml
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\obj\Debug\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Lisdero\Common\obj\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\bin\Debug\Services.xml
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\bin\Debug\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\bin\Debug\Common.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\bin\Debug\Services.dll
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\bin\Debug\CoreServices.dll
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\bin\Debug\Services.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\bin\Debug\CoreServices.pdb
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\bin\Debug\CoreServices.xml
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\obj\Debug\Common.dll
+C:\Users\Gaby\Desktop\Para Gabi\Lisdero\Source\Lisdero\Common\obj\Debug\Common.pdb
+C:\Desa\Lisdero\Common\bin\Debug\Services.xml
+C:\Desa\Lisdero\Common\bin\Debug\Common.dll
+C:\Desa\Lisdero\Common\bin\Debug\Common.pdb
+C:\Desa\Lisdero\Common\bin\Debug\Services.dll
+C:\Desa\Lisdero\Common\bin\Debug\CoreServices.dll
+C:\Desa\Lisdero\Common\bin\Debug\Services.pdb
+C:\Desa\Lisdero\Common\bin\Debug\CoreServices.pdb
+C:\Desa\Lisdero\Common\bin\Debug\CoreServices.xml
+C:\Desa\Lisdero\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Desa\Lisdero\Common\obj\Debug\Common.dll
+C:\Desa\Lisdero\Common\obj\Debug\Common.pdb

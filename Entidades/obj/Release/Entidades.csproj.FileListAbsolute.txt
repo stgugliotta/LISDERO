@@ -1,0 +1,84 @@
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Entidades\obj\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Entidades\obj\Release\Entidades.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\Entidades.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\Entidades.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\Common.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\Services.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\CoreServices.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\Services.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\Services.xml
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\Common.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\bin\Release\CoreServices.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\obj\Release\Entidades.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Entidades\obj\Release\Entidades.pdb
+C:\Desa\Lisdero\Entidades\bin\Release\Entidades.dll
+C:\Desa\Lisdero\Entidades\bin\Release\Entidades.pdb
+C:\Desa\Lisdero\Entidades\bin\Release\Common.dll
+C:\Desa\Lisdero\Entidades\bin\Release\Services.dll
+C:\Desa\Lisdero\Entidades\bin\Release\CoreServices.dll
+C:\Desa\Lisdero\Entidades\bin\Release\Common.pdb
+C:\Desa\Lisdero\Entidades\bin\Release\Services.pdb
+C:\Desa\Lisdero\Entidades\bin\Release\Services.xml
+C:\Desa\Lisdero\Entidades\bin\Release\CoreServices.pdb
+C:\Desa\Lisdero\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Desa\Lisdero\Entidades\obj\Release\Entidades.dll
+C:\Desa\Lisdero\Entidades\obj\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\obj\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Entidades\obj\Release\Entidades.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\Entidades.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\Entidades.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\Common.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\Services.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\CoreServices.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\Common.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\Services.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\Services.xml
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\bin\Release\CoreServices.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\obj\Release\Entidades.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Entidades\obj\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\obj\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Entidades\obj\Release\Entidades.pdb

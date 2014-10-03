@@ -1,0 +1,215 @@
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Implementation.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Implementation.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\EntidadesAdmin.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Herramientas.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\GoogleMaps.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Interfaces.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\office.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Newtonsoft.Json.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Herramientas.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\GoogleMaps.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Interfaces.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Newtonsoft.Json.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\Newtonsoft.Json.xml
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\bin\Release\EntidadesAdmin.pdb
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\obj\Release\Implementation.dll
+C:\Tools\Netares\Proyecto\Para Javi2\Implementation\obj\Release\Implementation.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Implementation.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Implementation.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Common.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\CoreServices.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Entidades.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\EntidadesAdmin.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Herramientas.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Services.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\EntidadesDAL.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\GoogleMaps.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Interfaces.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\office.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Newtonsoft.Json.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Common.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Services.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Services.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\EntidadesDAL.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Entidades.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Herramientas.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\GoogleMaps.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Interfaces.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\CoreServices.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Newtonsoft.Json.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\Newtonsoft.Json.xml
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\bin\Release\EntidadesAdmin.pdb
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\obj\Release\Implementation.dll
+C:\Tools\Netares\Proyecto\EmacsaGestion\Implementation\obj\Release\Implementation.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Implementation.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Implementation.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Common.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\CoreServices.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Entidades.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\EntidadesAdmin.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Herramientas.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Services.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\EntidadesDAL.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\GoogleMaps.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Interfaces.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\office.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Common.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Services.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Services.xml
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\EntidadesDAL.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Entidades.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Herramientas.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\GoogleMaps.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Interfaces.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\CoreServices.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.xml
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\bin\Release\EntidadesAdmin.pdb
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\obj\Release\ResolveAssemblyReference.cache
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\obj\Release\Implementation.dll
+C:\Tools\Streambe\Lisdero\Lisdero\Implementation\obj\Release\Implementation.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Implementation.dll
+C:\Desa\Lisdero\Implementation\bin\Release\Implementation.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Common.dll
+C:\Desa\Lisdero\Implementation\bin\Release\CoreServices.dll
+C:\Desa\Lisdero\Implementation\bin\Release\Entidades.dll
+C:\Desa\Lisdero\Implementation\bin\Release\EntidadesAdmin.dll
+C:\Desa\Lisdero\Implementation\bin\Release\EntidadesDAL.dll
+C:\Desa\Lisdero\Implementation\bin\Release\Herramientas.dll
+C:\Desa\Lisdero\Implementation\bin\Release\Interfaces.dll
+C:\Desa\Lisdero\Implementation\bin\Release\Services.dll
+C:\Desa\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Desa\Lisdero\Implementation\bin\Release\GoogleMaps.dll
+C:\Desa\Lisdero\Implementation\bin\Release\Newtonsoft.Json.dll
+C:\Desa\Lisdero\Implementation\bin\Release\CoreServices.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Common.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\EntidadesAdmin.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\EntidadesDAL.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Entidades.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Herramientas.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Interfaces.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Services.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Services.xml
+C:\Desa\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Desa\Lisdero\Implementation\bin\Release\GoogleMaps.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Newtonsoft.Json.pdb
+C:\Desa\Lisdero\Implementation\bin\Release\Newtonsoft.Json.xml
+C:\Desa\Lisdero\Implementation\obj\Release\ResolveAssemblyReference.cache
+C:\Desa\Lisdero\Implementation\obj\Release\Implementation.dll
+C:\Desa\Lisdero\Implementation\obj\Release\Implementation.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Implementation.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Implementation.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\EntidadesAdmin.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Herramientas.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Interfaces.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\GoogleMaps.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\office.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\EntidadesAdmin.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Herramientas.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Interfaces.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\GoogleMaps.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\office.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\obj\Release\Implementation.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Natalia\Lisdero\Implementation\obj\Release\Implementation.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Implementation.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Implementation.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Common.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\CoreServices.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Entidades.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\EntidadesAdmin.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\EntidadesDAL.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Herramientas.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Interfaces.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Services.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\GoogleMaps.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\office.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\CoreServices.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Common.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\EntidadesAdmin.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\EntidadesDAL.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Entidades.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Herramientas.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Interfaces.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Services.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Services.xml
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\GoogleMaps.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\office.xml
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\obj\Release\Implementation.dll
+C:\Users\Administrador\Desktop\Lisdero\Lisdero\Implementation\obj\Release\Implementation.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Implementation.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Implementation.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Common.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\CoreServices.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Entidades.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\EntidadesAdmin.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\EntidadesDAL.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Herramientas.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Interfaces.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Services.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\GoogleMaps.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\office.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\CoreServices.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Common.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\EntidadesAdmin.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\EntidadesDAL.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Entidades.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Herramientas.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Interfaces.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Services.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Services.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\GoogleMaps.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\office.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\obj\Release\Implementation.dll
+C:\Users\Gaby\Desktop\Desa\Lisdero\Gato\Lisdero\Lisdero\Implementation\obj\Release\Implementation.pdb

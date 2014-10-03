@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+	<ul id="menuone" class="menu">
+		<li class="menumain">
+			Inicio
+			<ul>
+				<li action="ViewHome.aspx">Inicio</li>
+			</ul>
+		</li>
+    <li class="menumain">Administración
+      <ul>
+        <li action="ViewAltaPersona.aspx">Gestión de Persona</li>
+        <li action="ViewAltaEmpresa.aspx">Gestión de Empresa</li>
+        <li action="ViewRelaciones.aspx">Gestión de relaciones</li>
+		    <li action="ViewPopUpGrupoEmail.aspx">Gestión de Grupos de Email</li>
+        <li action="ViewPopUpCombinarGrupoEmail.aspx">Combinar Grupos de Email</li>
+      </ul>
+    </li>
+		<li class="menumain">
+			Recepción
+			<ul >
+				<li action="ViewPopUpAgenda.aspx">Gestión de Agenda</li>
+
+			</ul>
+		</li>
+    <!--<li class="menumain">
+      Logística
+      <ul>
+        <li action="ViewHojaDeRutaAlta.aspx">Nueva Hoja de Ruta</li>
+        <li action="ViewHojaDeRutaEdicion.aspx">Edición de Hoja de Ruta</li>
+        <li action="ViewHojaDeRutaDeudoresSinGestion.aspx">Deudores sin gestión</li>
+        <li action="ViewHojaDeRutaDetalle.aspx">Detalle de Zonas</li>
+        <li action="ViewLocalizarRecibo.aspx">Buscar Recibo</li>
+        <li action="ViewHojaDeRuta.aspx">Gestión De Zonas</li>
+        <li action="ViewHojaDeRuta.aspx">Gestión De Cobradores</li>
+        <li action="ViewGestionCobradores.aspx">Gestión de Recibos</li>
+        <li action="ViewRedireccion.aspx?route=Route3">Localizar Factura</li>
+        <li action="ViewRedireccion.aspx?route=Route4">Gestión de flota</li>
+      </ul>
+    </li>-->
+		<!--<li class="menumain">
+			Remision
+			<ul >
+        <br />
+        <br />
+      <li action="ViewRemisionDeValores.aspx">Carga Remisión</li>
+      <li action="ViewRedireccion.aspx?route=Route3">Localizar Factura</li>
+      <li action="ViewLocalizarRecibo.aspx">Buscar Recibo</li>
+ 			</ul>
+		</li>-->
+		<!--<li class="menumain">
+			Reportes
+			<ul >
+				<li action="ViewExportToExcel.aspx">Ver reportes</li>
+			</ul>
+		</li>-->
+    <!--<li class="menumain">
+      Administración
+      <ul >
+        --><!--<li action="ViewParametrizacionDeUso.aspx">Parametrizaciones de uso</li>--><!--
+        <li action="ViewParametrizacion.aspx">Parametrizaciones del sistema</li>
+        
+      </ul>
+    </li>-->
+
+    <!--li class="menumain" style="float:right;">-->
+		<li class="menumain" style="float:right;">
+      Cerrar Sesión
+      <ul >
+        <li action="ViewLogOut.aspx">Cerrar Sesión</li>
+      </ul>
+		</li>
+	</ul>
+</menu>
